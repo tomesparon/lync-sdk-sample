@@ -1,0 +1,10 @@
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\bin\Debug\lync.exe
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\bin\Debug\lync.pdb
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\bin\Debug\Microsoft.Lync.Model.dll
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\bin\Debug\Microsoft.Office.Uc.dll
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\bin\Debug\Microsoft.Lync.Model.xml
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\obj\x86\Debug\lync.csprojAssemblyReference.cache
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\obj\x86\Debug\lync.csproj.CoreCompileInputs.cache
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\obj\x86\Debug\lync.csproj.CopyComplete
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\obj\x86\Debug\lync.exe
+C:\Users\esparont\Downloads\lync-sdk-sample-master\lync\obj\x86\Debug\lync.pdb
